@@ -1,0 +1,16 @@
+{
+   "editor.inlineSuggest.enabled": true,
+   "editor.formatOnSave": true,
+   "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "prettier.printWidth": 300,
+   "github.copilot.enable": {
+      "*": false,
+      "plaintext": false,
+      "markdown": false,
+      "scminput": false,
+      "javascript": false,
+      "javascriptreact": true,
+      "typescript": false,
+      "typescriptreact": true
+   }
+}
