@@ -52,7 +52,7 @@ const config = {
             actionTimeout: 10 * 1000,
             navigationTimeout: 30 * 1000,
             screenshot: "only-on-failure",
-            trace: "off",
+            trace: "on",
             video: "retain-on-failure", //on-first-retry
             //...devices['']
          },
