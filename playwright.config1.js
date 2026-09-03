@@ -53,7 +53,7 @@ const config = {
             navigationTimeout: 30 * 1000,
             screenshot: "only-on-failure",
             trace: "on",
-            video: "retain-on-failure", //on-first-retry
+            video: "off", //on-first-retry
             //...devices['']
          },
       },
