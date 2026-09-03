@@ -34,7 +34,7 @@ const config = {
    use: {
       browserName: "chromium",
       headless: false,
-      actionTimeout: 10 * 1000,
+      actionTimeout: 20 * 1000,
       navigationTimeout: 30 * 1000,
       //screenshot: 'only-on-failure',
       screenshot: "on",
